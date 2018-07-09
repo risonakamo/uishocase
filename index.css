@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body
+{
+    margin: 0;
+    background: url("pinkd1.png");
+    font-size: 0;
+    font-family: "meiryo";
+}
+
+.wrap
+{
+    width: 1200px;
+    min-height: 500px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: white;
+    padding: 0 90px 0 90px;
+    box-sizing: border-box;
+}
+
+.case
+{
+    padding: 30px 0 30px 0;
+}
+
+.case .title
+{
+    font-size: 30px;
+    color: white;
+    background-color: #3e3e5e;
+    text-align: center;
+    border-radius: 50px;
+    margin-bottom: 40px;
+}
+
+.images img
+{
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+.images img:nth-of-type(2n-1)
+{
+    margin-right: 20px;
+}
