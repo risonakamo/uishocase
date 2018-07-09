@@ -16,8 +16,13 @@ body
     margin-top: 50px;
     border-radius: 20px;
     background-color: white;
-    padding: 0 90px 0 90px;
     box-sizing: border-box;
+    overflow: hidden;
+}
+
+.case-wrap
+{
+    padding: 0 90px 0 90px;
 }
 
 .case
