@@ -7,12 +7,12 @@
 
     .wrap .case-wrap
     {
-        padding: 0 70px 0 70px;
+        padding: 0 5% 0 5%;
     }
 
     .case-wrap .case .title
     {
-        font-size: 40px;
+        font-size: 28px;
     }
 
     .case-wrap .case .button-hold
@@ -22,9 +22,9 @@
 
     .case-wrap .case .gitbutton
     {
-        font-size: 50px;
+        font-size: 1.5rem;
         border-radius: 100px;
-        padding: 24px 110px 24px 110px;
+        padding: 5% 20% 5% 20%;
     }
 
     .case .images img,.case .images.single img
