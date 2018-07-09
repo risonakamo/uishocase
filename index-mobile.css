@@ -1,0 +1,35 @@
+@media (max-width: 1200px)
+{
+    body .wrap
+    {
+        width: 95%;
+    }
+
+    .wrap .case-wrap
+    {
+        padding: 0 70px 0 70px;
+    }
+
+    .case-wrap .case .title
+    {
+        font-size: 40px;
+    }
+
+    .case-wrap .case .button-hold
+    {
+        margin-top: 35px;
+    }
+
+    .case-wrap .case .gitbutton
+    {
+        font-size: 50px;
+        border-radius: 100px;
+        padding: 24px 110px 24px 110px;
+    }
+
+    .case .images img,.case .images.single img
+    {
+        width: 100%;
+        height: auto;
+    }
+}
