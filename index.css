@@ -57,20 +57,6 @@ body
     letter-spacing: 1.2px;
 }
 
-.images img
-{
-    width: 500px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-    border-top: 5px solid #3e3e5e;
-    border-bottom: 5px solid #3e3e5e;
-}
-
-.images img:nth-of-type(2n-1)
-{
-    margin-right: 20px;
-}
-
 .case .button-hold
 {
     text-align: center;
@@ -88,8 +74,40 @@ body
     padding: 13px 70px 13px 70px;
 }
 
+.case .gitbutton.disabled
+{
+    opacity: .5;
+}
+
 .case .gitbutton:hover
 {
     background-color: #3e3e5e;
     color: white;
+}
+
+/*-- case images --*/
+.images
+{
+    text-align: center;
+}
+
+.images img
+{
+    width: 500px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border-top: 5px solid #3e3e5e;
+    border-bottom: 5px solid #3e3e5e;
+    vertical-align: top;
+}
+
+.images img:nth-of-type(2n-1)
+{
+    margin-right: 20px;
+}
+
+.images.single img
+{
+    width: auto;
+    height: 500px;
 }
