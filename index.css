@@ -122,3 +122,25 @@ body
 {
     opacity: .5;
 }
+
+/*-- top info --*/
+.top-info
+{
+    text-align: center;
+}
+
+.top-info .case
+{
+    padding-bottom: 0;
+}
+
+.top-info h1
+{
+    font-size: 25px;
+}
+
+.top-info p
+{
+    font-size: 20px;
+    color: #0a0a25;
+}
