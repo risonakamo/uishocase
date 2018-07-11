@@ -41,6 +41,7 @@ body
 
 .case
 {
+    position: relative;
     padding: 30px 0 30px 0;
 }
 
@@ -99,12 +100,17 @@ body
     border-top: 5px solid #3e3e5e;
     border-bottom: 5px solid #3e3e5e;
     vertical-align: top;
-    transition: opacity .2s;
+    transition: opacity .36s;
 }
 
-.images a:nth-of-type(2n-1)
+.images a:nth-of-type(2n-1),.images a.manual-space
 {
     margin-right: 20px;
+}
+
+.images a.no-space
+{
+    margin-right: 0;
 }
 
 .images.single img
@@ -120,7 +126,30 @@ body
 
 .images a:hover img
 {
-    opacity: .5;
+    opacity: .6;
+}
+
+/*-- case image special overrides --*/
+.images .tall-image
+{
+    height: 500px;
+    width: auto;
+}
+
+.images .tall-small
+{
+    height: 300px;
+    width: auto;
+}
+
+.images .full-wide
+{
+    width: 100%;
+}
+
+.images .big-wide
+{
+    width: 800px;
 }
 
 /*-- top info --*/
