@@ -1,0 +1,16 @@
+<div class="label">Design Concepts: Rectangular, Colour-Associative</div>
+<div class="label">Design Concepts: Skimmable, Organised</div>
+<div class="label">Design Concepts: Simplified, Colour-Changing</div>
+<div class="label">Design Concepts: Futuristic, Effective</div>
+<div class="label">Design Concepts: Thin, Adaptive</div>
+<div class="label">Design Concepts: Contrasting, Unique-Colours</div>
+<div class="label">Design Concepts: Mobile, Handy</div>
+<div class="label">Design Concepts: Randomised, Fast</div>
+<div class="label">Design Concepts: RED, Material</div>
+<div class="label">Design Concepts: Rapid, Eyeful</div>
+<div class="label">Design Concepts: Visual, Enlarging</div>
+<div class="label">Design Concepts: Productive, Theme-Matching</div>
+<div class="label">Design Concepts: Singular.</div>
+<div class="label">Design Concepts: Readable, Resizable</div>
+<div class="label">Design Concepts: Flexible, Fast-Comprehensible</div>
+<div class="label">Design Concepts: Darkened, Clean</div>
